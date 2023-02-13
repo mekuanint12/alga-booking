@@ -1,3 +1,4 @@
+/* eslint-disable */ 
 import Navbar from "./../../components/Navbar/Navbar";
 import Header from "./../../components/Header/Header";
 import SearchItem from "./../../components/searchItem/SearchItem";
